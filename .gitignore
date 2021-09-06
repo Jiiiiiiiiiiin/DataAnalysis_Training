@@ -5,6 +5,9 @@ roadapikey.txt
 password.txt
 mysql.json
 guideSearchApi/
+movies/
+credits.csv
+data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
